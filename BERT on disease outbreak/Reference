@@ -1,0 +1,70 @@
+1. overview machine learning and deep learning
+http://www.huaxiaozhuan.com/
+
+
+2. named enrity recognition animal disease:
+
+https://www.researchgate.net/project/Platform-for-Automated-extraction-of-Disease-Information-PADI
+https://arxiv.org/pdf/1905.05529.pdf  
+https://www.aclweb.org/anthology/N16-1030  
+https://arxiv.org/abs/1812.09449 
+https://arxiv.org/pdf/1701.04027.pdf 
+https://deepmind.com/blog/population-based-training-neural-networks/
+http://www.inesc-id.pt/publications/5519/pdf
+https://www.aclweb.org/anthology/D15-1064
+https://www.aclweb.org/anthology/W17-2630
+https://mp.weixin.qq.com/s/2LYqppJnRRtlvsdrdu57Gg
+https://arxiv.org/abs/1902.00756
+
+related work
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6075742/
+google news rss feeds to scrape data:
+https://stackoverflow.com/questions/51537063/url-format-for-google-news-rss-feed
+
+BERT introduction
+https://jalammar.github.io/illustrated-bert/
+
+Bert for NER
+https://www.depends-on-the-definition.com/named-entity-recognition-with-bert/
+https://github.com/kamalkraj/BERT-NER
+
+Bert for IE
+https://www.groundai.com/project/simple-bert-models-for-relation-extraction-and-semantic-role-labeling/1
+https://github.com/wadhwasahil/Relation_Extraction
+https://arxiv.org/abs/1904.05255
+https://github.com/sakuranew/BERT-AttributeExtraction
+https://github.com/NPCai/Open-IE-Papers
+
+
+Different NLP approaches:
+https://friendlydata.io/blog/machine-learning-vs-rule-based-systems
+https://www.kdnuggets.com/2018/10/main-approaches-natural-language-processing-tasks.html
+
+
+rule-based named entity recognition:
+https://www.cis.uni-muenchen.de/~fraser/information_extraction_2015_lecture/03_rule_based_NER.pdf
+https://www.aclweb.org/anthology/D13-1079
+https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0179488&type=printable
+
+
+Transformer
+https://towardsdatascience.com/transformers-141e32e69591
+https://medium.com/inside-machine-learning/what-is-a-transformer-d07dd1fbec04
+http://mlexplained.com/2017/12/29/attention-is-all-you-need-explained/
+
+BERT
+https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270
+http://mlexplained.com/2019/01/07/paper-dissected-bert-pre-training-of-deep-bidirectional-transformers-for-language-understanding-explained/
+https://arxiv.org/pdf/1810.04805.pdf
+https://blog.insightdatascience.com/using-bert-for-state-of-the-art-pre-training-for-natural-language-processing-1d87142c29e7
+http://mlexplained.com/2019/01/30/an-in-depth-tutorial-to-allennlp-from-basics-to-elmo-and-bert/
+
+BERT github:
+biobert
+scibert
+
+BERT relation extraction:
+https://arxiv.org/pdf/1905.08284.pdf
+http://nlpprogress.com/english/relationship_extraction.html
+http://www.cs.cmu.edu/~nbach/papers/A-survey-on-Relation-Extraction-Slides.pdf
+http://www.cs.cmu.edu/~nbach/papers/A-survey-on-Relation-Extraction-Slides.pdf
