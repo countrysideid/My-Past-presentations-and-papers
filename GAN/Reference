@@ -1,0 +1,13 @@
+GAN training: https://github.com/soumith/ganhacks
+
+
+
+
+GAN paper:
+
+Park, N., Mohammadi, M., Gorde, K., Jajodia, S., Park, H., & Kim, Y. (2018). Data synthesis based on generative adversarial networks. Proceedings of the VLDB Endowment, 11(10), 1071-1083.
+Choi, E., Biswal, S., Malin, B., Duke, J., Stewart, W. F., & Sun, J. (2017). Generating multi-label discrete patient records using generative adversarial networks. arXiv preprint arXiv:1703.06490.
+Camino, R., Hammerschmidt, C., & State, R. (2018). Generating Multi-Categorical Samples with Generative Adversarial Networks. arXiv preprint arXiv:1807.01202.
+Arjovsky, M., Chintala, S., & Bottou, L. (2017, July). Wasserstein generative adversarial networks. In International Conference on Machine Learning (pp. 214-223).
+
+
