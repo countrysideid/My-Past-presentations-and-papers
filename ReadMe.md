@@ -1,8 +1,12 @@
-Presentations and papers by Yijun Wei
+Talks and papers by Yijun Wei
+
+Invited talk at data science conference July, 2019: Reinforcement learning at Data sience
 
 Joint Statistical meeting (JSM) Aug, 2019: Using Generative Adversarial Network to Generate Synthetic Population
 
 The 36th Annual Quality and Productivity Research Conference (QPRC) June 2019: Web Scraping-Natural Language Processing (NLP) for Disease Outbreak Detection and Information Extraction (BERT on disease outbreak)
+
+Invited talk at Neural Architecture Search (NAS) deep learning conference Feb, 2019: Auto-Keras
 
 Government Advances In Statistical Programming, Oct 2018: Using Gaussian copula to generate a synthetic population
 
