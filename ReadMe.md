@@ -1,6 +1,6 @@
 Talks and papers by Yijun Wei
 
-- Invited talk at data science conference July, 2019: Reinforcement learning at Data sience
+- Invited talk at data science conference July, 2019: Reinforcement learning in Data sience
 
 - Joint Statistical meeting (JSM) Aug, 2019: Using Generative Adversarial Network to Generate Synthetic Population
 
